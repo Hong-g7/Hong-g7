@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=F88017&height=150&&text=Welcome&fontAlignY=48&fontAlign=47&fontSize=60&animation=twinkling&textColor=000000&desc=Hong's_profile&descAlign=72&descColor=000000&descSize=26)
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHong-g7&count_bg=%23969794&title_bg=%23555555&icon=kentico.svg&icon_color=%23FDFFED&title=GITHUB&edge_flat=false)](https://github.com/Hong-g7)
 ## 💡  Who Am I 
     문제 해결 과정을 즐기는 백엔드 개발자 권홍입니다.
     개발하면서 수많은 문제와 부딪쳤고, 이를 해결할 때마다 큰 성취감을 느꼈습니다.
@@ -28,5 +28,5 @@
 ---------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hong-g7&theme=codeSTACKr&icons=true)        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsghd97)](https://solved.ac/rnjsghd97/)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHong-g7&count_bg=%23969794&title_bg=%23555555&icon=kentico.svg&icon_color=%23FDFFED&title=GITHUB&edge_flat=false)](https://github.com/Hong-g7)
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
