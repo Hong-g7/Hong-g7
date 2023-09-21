@@ -27,5 +27,6 @@
 
 ---------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hong-g7&theme=codeSTACKr&icons=true)        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsghd97)](https://solved.ac/rnjsghd97/)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHong-g7&count_bg=%23969794&title_bg=%23555555&icon=kentico.svg&icon_color=%23FDFFED&title=GITHUB&edge_flat=false)](https://github.com/Hong-g7)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
