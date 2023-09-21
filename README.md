@@ -6,7 +6,6 @@
     개발하면서 수많은 문제와 부딪쳤고, 이를 해결할 때마다 큰 성취감을 느꼈습니다.
     항상 작은 부분이라도 이점이 있다면, 성능을 개선하기 위해 고민합니다.
     현재는 하나를 배우더라도 깊이 있게 배우려는 자세로 백엔드 개발을 학습하고 있습니다.
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHong-g7&count_bg=%23969794&title_bg=%23555555&icon=kentico.svg&icon_color=%23FDFFED&title=GITHUB&edge_flat=false)](https://github.com/Hong-g7)
 
 ------
 ## 💻 DEV's log 💻
